@@ -1,4 +1,4 @@
-# TeamProject
+# TeamProject_Library
 
 *** 설명 
 
